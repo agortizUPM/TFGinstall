@@ -1,0 +1,3 @@
+COMO NO SE PUEDE HACER USO DEL LDAP SE HAN CREADO ARCHIVOS DE EJEMPLO DE LO QUE SERÍAN LAS CONSULTAS.
+fichlogin.txt -> sacarnombre.sh -> tfgnombreyfecha.txt ->
+-> consulta.sh -> fechayzona.txt -> juntarpordia.sh -> sumadocompleto.csv

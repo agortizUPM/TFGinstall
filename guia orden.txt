@@ -1,2 +1,0 @@
-fichlogin.txt -> sacarnombre.sh -> tfgnombreyfecha.txt ->
--> consulta.sh -> fechayzona.txt -> juntarpordia.sh -> sumadocompleto.csv
